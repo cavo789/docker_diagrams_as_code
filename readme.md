@@ -44,3 +44,9 @@ A more sophisticated diagram can be:
 More samples on [https://diagrams.mingrammer.com/docs/getting-started/examples](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
 The Docker image code base is here: [https://github.com/gtramontina/docker-diagrams](https://github.com/gtramontina/docker-diagrams).
+
+## Another tools
+
+* [Mermaid](https://mermaid-js.github.io/mermaid/), his [live editor](https://mermaid.live/), the [preview addon for vscode](https://marketplace.visualstudio.com/items?itemName=vstirbu.vscode-mermaid-preview) and the [convert tool as a CLI tool](https://github.com/mermaid-js/mermaid-cli)
+* [Sequence diagram](https://sequencediagram.org/) *(seems based on Mermaid)*
+* [yEd Graph Editor](https://www.yworks.com/products/yed)
