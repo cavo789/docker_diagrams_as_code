@@ -51,6 +51,7 @@ A tremendous list of icons/nodes is available on multiple pages at [https://diag
 
 ## Another tools
 
+* [DB Diagram](https://dbdiagram.io/home)
 * [JSON Crack](https://jsoncrack.com/), seamlessly visualize your JSON data instantly into graphs.
 * [Plantuml](https://github.com/plantuml/plantuml), generate diagrams from textual description
 * [Mermaid](https://mermaid-js.github.io/mermaid/), his [live editor](https://mermaid.live/), the [preview addon for vscode](https://marketplace.visualstudio.com/items?itemName=vstirbu.vscode-mermaid-preview) and the [convert tool as a CLI tool](https://github.com/mermaid-js/mermaid-cli)
