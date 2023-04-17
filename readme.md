@@ -49,11 +49,12 @@ The Docker image code base is here: [https://github.com/gtramontina/docker-diagr
 
 A tremendous list of icons/nodes is available on multiple pages at [https://diagrams.mingrammer.com/docs/nodes/onprem](https://diagrams.mingrammer.com/docs/nodes/onprem). See [OnPrem](https://diagrams.mingrammer.com/docs/nodes/onprem), [AWS](https://diagrams.mingrammer.com/docs/nodes/aws), [Azure](https://diagrams.mingrammer.com/docs/nodes/azure), [GCP](https://diagrams.mingrammer.com/docs/nodes/gcp), [IBM](https://diagrams.mingrammer.com/docs/nodes/ibm), [K8S](https://diagrams.mingrammer.com/docs/nodes/k8s), ... and also how to create our owns (using local `.png` images): [Custom](https://diagrams.mingrammer.com/docs/nodes/custom).
 
-## Another tools
+## Other tools
 
 * [DB Diagram](https://dbdiagram.io/home)
 * [JSON Crack](https://jsoncrack.com/), seamlessly visualize your JSON data instantly into graphs.
-* [Plantuml](https://github.com/plantuml/plantuml), generate diagrams from textual description
+* [Kroki](https://kroki.io/), creates diagrams from textual descriptions!
 * [Mermaid](https://mermaid-js.github.io/mermaid/), his [live editor](https://mermaid.live/), the [preview addon for vscode](https://marketplace.visualstudio.com/items?itemName=vstirbu.vscode-mermaid-preview) and the [convert tool as a CLI tool](https://github.com/mermaid-js/mermaid-cli)
+* [Plantuml](https://github.com/plantuml/plantuml), generate diagrams from textual description
 * [Sequence diagram](https://sequencediagram.org/) *(seems based on Mermaid)*
 * [yEd Graph Editor](https://www.yworks.com/products/yed), Graphical interface, you'll need to drag & drop objects, resize, ... It doesn't support text files like the other tools already mentioned here.
